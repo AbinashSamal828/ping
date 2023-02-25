@@ -1,4 +1,4 @@
-export const host="https://heypingme.netlify.app";
+export const host="https://ping-backend.onrender.com";
 export const registerRoute=`${host}/api/auth/register`
 export const loginRoute=`${host}/api/auth/login`
 export const setAvatarRoute=`${host}/api/auth/setAvatar`
